@@ -1,4 +1,4 @@
-package com.ciusyan;
+package com.ciusyan.bootcst;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
